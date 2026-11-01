@@ -22,7 +22,7 @@ Under veckan lär vi oss även hur våra Lambda-funktioner kan kommunicera med D
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [DynamoDB och databasmodellering](https://docs.google.com/presentation/d/1_EuyVfxwr4Re3eMA2KzEJnQt5nbi3-F4/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
