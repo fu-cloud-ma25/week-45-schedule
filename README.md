@@ -37,8 +37,6 @@ Under veckan lär vi oss även hur våra Lambda-funktioner kan kommunicera med D
 
 ### Länkar
 
-* [AWS CLI Cheat Sheet]()
-
 ### Övningar 
-
+* [DynamoDB Bootcamp](https://github.com/fu-cloud-ma25/week-45-exercise-dynamodb-bootcamp)
 
