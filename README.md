@@ -33,7 +33,7 @@ Under veckan lär vi oss även hur våra Lambda-funktioner kan kommunicera med D
 
 ### Lektionsrepon
 
-* []()
+* [3 nov](https://github.com/fu-cloud-ma25/week-45-lecture-3-nov)
 
 ### Länkar
 
