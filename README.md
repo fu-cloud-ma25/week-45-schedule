@@ -28,7 +28,7 @@ Under veckan lär vi oss även hur våra Lambda-funktioner kan kommunicera med D
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
-* 01 - []()
+* 01 - [Databaser och DynamoDB, 3 nov](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQDIjZa2jD0QRYgLsdtH8kzUASi4aenHM0D6FqYO8dHFWWo?e=FKgTJi)
 
 
 ### Lektionsrepon
